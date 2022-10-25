@@ -10,6 +10,13 @@ app.get('/', (req, res) => {
   res.send('Learning frontend development server running')
 })
 
+app.get('/courses', (req, res) => {
+  res.send(phones)
+})
+
+app.get('/course/:id', (req, res) => {
+  res.send()
+})
 
 app.listen(port, () => {
   console.log(`Iphone server is running on port: ${port}`)
