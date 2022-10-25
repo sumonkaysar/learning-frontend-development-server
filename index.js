@@ -2,6 +2,7 @@ const express = require('express')
 const app = express()
 const cors = require('cors')
 const port = 5000;
+const courses = require('./data/courses.json')
 
 
 app.use(cors())
@@ -11,13 +12,15 @@ app.get('/', (req, res) => {
 })
 
 app.get('/courses', (req, res) => {
-  res.send(phones)
+  res.send(courses)
 })
 
 app.get('/course/:id', (req, res) => {
-  res.send()
+  const {id} = req.params
+  const course = courses.find(crs => crs.id === id) || {}
+  res.send(course)
 })
 
 app.listen(port, () => {
-  console.log(`Iphone server is running on port: ${port}`)
+  console.log(`Learning frontend development server is running on port: ${port}`)
 })
