@@ -1,5 +1,137 @@
 [
   {
-    "id": 1
+    "id": "63580905fb325028c3e4cbda",
+    "name": "HTML in 7 Days",
+    "images": [
+      "https://www.masterseosem.com/images/etiquetas-html.webp",
+      "https://images.unsplash.com/photo-1583339793403-3d9b001b6008?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://images.unsplash.com/photo-1529661197280-63dc545366c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    ],
+    "details": "Fun fact: all websites use HTML — even this one. It's a fundamental part of every web developer's toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers.",
+    "price": 29.99,
+    "ratings": {
+      "number": 4,
+      "persons": 30
+    }
+  },
+  {
+    "id": "63580905299cf0862b38f67a",
+    "name": "CSS in 7 Days",
+    "images": [
+      "https://www.sipexe.com/assets/courses/CSS_Course.jpg",
+      "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "https://d28rtuv7aawte3.cloudfront.net/uploads/thumbnails/course_thumbnails/course_thumbnail_efanew_48.jpg"
+    ],
+    "details": "This course breaks down the fundamentals of CSS into digestible, easy to understand pieces. Over the next few modules, you'll learn how the core aspects of CSS work and how to use them effectively in your projects. You'll learn CSS fundamentals like the box model, cascade and specificity, flexbox, grid and z-index. And, along with these fundamentals, you'll learn about functions, color types, gradients, logical properties and inheritance to make you a well-rounded front-end developer, ready to take on any user interface.",
+    "price": 29.99,
+    "ratings": {
+      "number": 4.8,
+      "persons": 66
+    }
+  },
+  {
+    "id": "635809053de6d0bcf9d89659",
+    "name": "Tailwind CSS - Basic to Advance",
+    "images": [
+      "https://labs.tadigital.com/wp-content/uploads/2020/03/tailwind.png",
+      "https://images.unsplash.com/photo-1611647832580-377268dba7cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://i.ytimg.com/vi/16fc0YSn4o8/maxresdefault.jpg"
+    ],
+    "details": "Tailwind CSS is a utility-first framework for rapidly building custom designs. This tutorial will teach your Tailwind from scratch, using a mix of lectures and interactive coding challenges. During this course we will be exploring the features of Tailwind CSS. As a quick recap, Tailwind is a utility-first framework designed to speed up the design process by completely removing the need for custom CSS. In the past, every HTML element would get a single class and that class would contain a lot of custom CSS in a separate CSS file. Though this is still the general practice, this practice leads to huge CSS files, reduces the ease of maintaining CSS and yields overall poorer developer experience.",
+    "price": 39.99,
+    "ratings": {
+      "number": 4.6,
+      "persons": 82
+    }
+  },
+  {
+    "id": "6358090592bfb7697e7eac33",
+    "name": "Bootstrap - A CSS Library",
+    "images": [
+      "https://marcosaguilar.es/wp-content/uploads/2019/08/bootstrap-social-share.png",
+      "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAPiFn5V0cFPGLIcF2XkjV8kWFcxDmDzktw&usqp=CAU"
+    ],
+    "details": "If you want to quickly create a website without writing tons of CSS from scratch, then Bootstrap 5 might be the framework you're looking for. In this course, you'll see how Bootstrap makes it easy to layout and create interactive and responsive sites. You'll learn about Bootstrap's grid system to construct complex layouts. Then, you'll style and populate your site using Bootstrap's utility classes and components. With Bootstrap, HTML, some familiarity with CSS, and JavaScript, you'll be making websites in no time.",
+    "price": 39.99,
+    "ratings": {
+      "number": 4.7,
+      "persons": 55
+    }
+  },
+  {
+    "id": "63580905f219569da44750bd",
+    "name": "Javascript - Basic to Advance",
+    "images": [
+      "https://miro.medium.com/max/1400/1*ahpxPO0jLGb9EWrY2qQPhg.jpeg",
+      "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://hackr.io/blog/javascript-projects/thumbnail/large"
+    ],
+    "details": "JavaScript is the programming language of the World Wide Web. As a professional web software developer, you will not only need to know how to program in this simple yet powerful language, but you will need to understand the fundamentals of how data is exchanged on the World Wide Web (WWW) and what tools and frameworks are available to you for creating robust, interactive web applications. This course, part of the CS Essentials for Software Development Professional Certificate program, provides an introduction to modern web development using JavaScript. In addition to exploring the basics of web page creation using HTML and CSS, you will learn advanced web page layout and responsive design tools such as Bootstrap. You will also learn how browsers represent a web page data using the Document Object Model (DOM) and how to develop dynamic, interactive web pages using JavaScript in the browser. Beyond fundamental JavaScript syntax and advanced language features such as callbacks, events, and asynchronous programming, you will work with jQuery, which provides functionality for simplified DOM manipulation and event handling.",
+    "price": 49.99,
+    "ratings": {
+      "number": 4.5,
+      "persons": 35
+    }
+  },
+  {
+    "id": "635809057c69061dcf65feab",
+    "name": "React - A Javascript Library",
+    "images": [
+      "https://techsathi.com/wp-content/uploads/2021/05/ReactJS.png",
+      "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://codersera.com/blog/wp-content/uploads/2019/12/Learn-Reactjs.jpeg"
+    ],
+    "details": "React is a free and open-source front-end JavaScript library. It was created by the developers at Facebook. This course is filled with coding challenges that you'll complete by writing React code directly inside the Scrimba screencasts. Before you know it, you'll have written eight interactive React applications!",
+    "price": 74.99,
+    "ratings": {
+      "number": 4.5,
+      "persons": 89
+    }
+  },
+  {
+    "id": "63580905b8a0f1bd9854f06f",
+    "name": "Angular - A Javascript Framework",
+    "images": [
+      "https://www.freecodecamp.org/news/content/images/2022/09/angular.png",
+      "https://www.zobiwebsolutions.com/wp-content/uploads/2020/01/Introduction-to-AngularJS.png",
+      "https://www.trio.dev/hubfs/Imported_Blog_Media/7fad34d867a32f732b37534ff013e916-3-2.jpg"
+    ],
+    "details": "Angular is a TypeScript-based free and open-source web application framework created by Google. In this course you will learn how to use all the main parts of Angular using TypeScript. By the end, you will be ready to build your own projects using Angular. we guarantee you this is the most comprehensive online course on Angular. You will learn Angular and become a confident Angular Developer by building real-world projects (including a massive video sharing application) step-by-step alongside a Senior Developer.",
+    "price": 64.99,
+    "ratings": {
+      "number": 4.4,
+      "persons": 30
+    }
+  },
+  {
+    "id": "63580905da655528a9d8592d",
+    "name": "Vue JS - Dive into Modern JS Framework",
+    "images": [
+      "https://res.cloudinary.com/practicaldev/image/fetch/s--I4FWon9Y--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ll22z8mea106b4vjdjy7.jpeg",
+      "https://images.unsplash.com/photo-1561736778-92e52a7769ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      ""
+    ],
+    "details": "Vue is a JavaScript framework for building user interfaces. We're going to take a journey through the Vue universe to explore the technology and build a solid foundation of new skills, so we can build upon that to head towards Vue mastery. This course is your first step along the way, and on our platform you'll find a whole library of courses you can take to level-up your skills. In this course you'll learn Vue.js by building a real-world application. Together we'll create a complete forum from scratch using exciting technologies that synergize with Vue. The goal of this course is to teach you Vue.js along with Best Practices, Modern Javascript, and other exciting technologies, by building a Real World application - a forum.",
+    "price": 69.99,
+    "ratings": {
+      "number": 5,
+      "persons": 65
+    }
+  },
+  {
+    "id": "635809052ad56ce0bfcde70f",
+    "name": "Firebase Auth (With React)",
+    "images": [
+      "https://firebase.google.com/images/social.png",
+      "https://miro.medium.com/max/1000/1*JbDo7U0l62vYMfm1WxnA1g.png",
+      "https://res.cloudinary.com/practicaldev/image/fetch/s--XnV7nLnZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/cufhvx44o66bb32ll2l8.png"
+    ],
+    "details": "Firebase, is a platform by Google that helps creating mobile and web applications. In this course, you'll learn how to use Firebase. Firebase is app development platform that provides developers a variety of tools and a scalable infrastructure to build high quality apps. We'll begin by showing you how easy it is to read and write almost any data to Firebase. After that, we'll teach you how to allow users to login, have data associated with them and send them notifications. You'll learn how to use Firebase's Security and Rules language to secure and add permissions to your data.",
+    "price": 24.99,
+    "ratings": {
+      "number": 4.5,
+      "persons": 77
+    }
   }
 ]
