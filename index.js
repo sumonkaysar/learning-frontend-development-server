@@ -18,6 +18,10 @@ app.get('/categories', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
   const {id} = req.params
+  if (id === '00') {
+    res.send(courses)
+    return
+  }
   const cat_courses = courses.filter(crs => crs.category_id === id) || []
   res.send(cat_courses)
 })
