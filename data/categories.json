@@ -22,5 +22,9 @@
   {
     "id": "05",
     "name": "Firebase Authentication"
+  },
+  {
+    "id": "06",
+    "name": "AJAX in jQuery"
   }
 ]
